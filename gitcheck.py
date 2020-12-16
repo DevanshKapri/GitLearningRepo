@@ -1,2 +1,2 @@
 print("Hello word!")
-print("In uodated branch")
+print("In updated branch")
